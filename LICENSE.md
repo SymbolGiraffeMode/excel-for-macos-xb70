@@ -1,4 +1,4 @@
-
+rare Plugin for Excel for macOS - custom-functions and code-autocompletion offers the most advanced Excel for macOS plugin, with custom-functions and code-autocompletion. Ideal
 
 
 
